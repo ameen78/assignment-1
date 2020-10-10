@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 5px;
+    height: 100%;
+}
+header h1{
+color: rgb(10, 216, 216);
+padding: 30px 0px;
+}
+header h2{
+    color: #e4e40df3;
+    padding: 0 0 20px 0;
+}
+.community{
+    padding: 10px;
+    margin: 50px;
+}
+.community p{
+    font-size: 1.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(179, 169, 169);
+}
+.access{
+    color: white;
+    background-color: rgba(11, 122, 122, 0.911);
+    padding: 70px 0px 90px 5px; 
+    flex: 1;
+    font-size: 1.7rem;
+    text-align: center;
+}
+.access h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 5px;
+}
+.sub{
+    display: flex;
+    justify-content: center;
+    padding-right: 115px;
+}
+.access h4{
+    padding: 23px 0 0 7px;
+    font-size: 1.3rem;
+    lighting-color:rgb(91,192,162)
+}
+button{
+    text-align: center;
+    background-color:rgb(164, 235, 21);
+    width: 17rem;
+    height: 3rem;
+    margin: 20px 5px 10px 0px;
+    border: none;
+    border-radius: 0.5rem;
+    color: white;
+    text-transform: uppercase;
+    font-size: 1rem;
+    margin-top: 40px;
+}
+.elit{
+    background-color: rgb(13, 221, 221);
+    padding: 70px  0 0 35px;;
+    color: white;
+    flex: 1;
+}
+.elit h2{
+    padding: 5px 0px 20px 0px;
+}
+.elit li{
+    font-size: 1.5rem;
+    color: rgb(255, 254, 254);
+}    
+.elit ul{
+    text-decoration: none;
+    list-style: none;
+padding: 0 0 20px 0;
+}
+.add{
+    display: flex;
+    justify-content: center;
+}    
+
